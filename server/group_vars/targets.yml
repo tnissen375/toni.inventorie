@@ -74,6 +74,11 @@ keycloak_smtp_from: "no-reply@{{domain}}"
 keycloak_smtp_display_name: "no-reply"
 keycloak_smtp_ssl: "false"
 keycloak_smtp_user: "no-reply@{{domain}}"
+keycloak_user_username: 'no-reply'
+keycloak_user_firstName: "no"
+keycloak_user_lastName: "reply"
+keycloak_user_email: "no-reply@{{domain}}"
+keycloak_user_locale: "de"
 
 #######
 ### Dont change after this line, if y r not knowing what you do ;) 
